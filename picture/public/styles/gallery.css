@@ -1,0 +1,28 @@
+.search-form{
+    margin-top: 30px;
+   
+}
+
+.search-form .form-group{
+    width: 500px;
+}
+
+.submit-btn{
+    margin-left: 10px;
+    border: 1px solid #444444;
+    background-color: #444444;
+    font-family: Raleway;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 3px;
+
+}
+
+
+li{
+    list-style: none;
+    font: .95em Raleway;
+    letter-spacing: 4px;
+    font-weight: 400;
+    cursor: pointer;
+}
